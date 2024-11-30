@@ -26,4 +26,4 @@ This project dives into SpaceX’s launch data to analyze, visualize, and predic
 To explore the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spacex-rocket-analysis.git
+   git clone https://github.com/griffinulsh/spacex-rocket-analysis.git
